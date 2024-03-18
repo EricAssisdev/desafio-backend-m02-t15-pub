@@ -14,13 +14,13 @@ Neste README, você encontrará informações cruciais sobre como utilizar e tes
 1. Clone este repositório para sua máquina local:
 
    ```
-   git clone https://github.com/livnascimento/desafio-backend-m02-b2bt05.git
+   git clone https://github.com/EricAssisdev/desafio-backend-m02-t15-pub.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```
-   cd desafio-backend-m02-b2bt05
+   cd "diretorio-do-projeto"
    ```
 
 3. Instale as dependências necessárias:
