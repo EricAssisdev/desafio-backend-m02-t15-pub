@@ -34,7 +34,7 @@ Neste README, você encontrará informações cruciais sobre como utilizar e tes
 1. Para iniciar a API, execute o seguinte comando:
 
     ```
-    npm start
+    npm run dev
     ```
 
 A API estará disponível em `http://localhost:3000`.
